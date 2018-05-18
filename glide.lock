@@ -1,0 +1,6 @@
+hash: 3fbbcc0215e3bc0d6596b2f50579bb2c9cbfd65e2e607a90b7ab3d8563d2e3b3
+updated: 2018-05-18T08:55:09.437129807-05:00
+imports:
+- name: github.com/blang/vfs
+  version: c14afcac17253ce7418da751ec6b1988790cdc8f
+testImports: []

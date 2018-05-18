@@ -1,0 +1,3 @@
+package: github.com/storskegg/vfstest
+import:
+- package: github.com/blang/vfs
